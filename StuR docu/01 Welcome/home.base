@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: cards
+    filters:
+      and:
+        - file.folder == "03 indexes/notes"
+    image: note.cover
+    cardSize: 130

@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasLink("03 indexes/notes/special")
+    image: note.cover

@@ -5,11 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"03 indexes/notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"04 tags/notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"06 Zettelkasten\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 562720
+      }
+    },
+    {
+      "query": "path:\"02 sources\" ",
+      "color": {
+        "a": 1,
+        "rgb": 13869819
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 0.5761238943678466,
+  "close": false
 }
