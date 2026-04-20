@@ -1,7 +1,18 @@
 {
   "recentFiles": [
     {
+<<<<<<< Updated upstream:.obsidian/plugins/recent-files-obsidian/data.json
 <<<<<<< HEAD:StuR docu/.obsidian/plugins/recent-files-obsidian/data.json
+=======
+      "basename": "minutes template",
+      "path": "05 templates/minutes template.md"
+    },
+    {
+      "basename": "minutes_test",
+      "path": "06 Zettelkasten/minutes_test.md"
+    },
+    {
+>>>>>>> Stashed changes:StuR docu/.obsidian/plugins/recent-files-obsidian/data.json
       "basename": "minutes_14042026",
       "path": "06 Zettelkasten/minutes_14042026.md"
 =======
@@ -162,10 +173,6 @@
       "path": "05 templates/tag Template.md"
     },
     {
-      "basename": "minutes template",
-      "path": "05 templates/minutes template.md"
-    },
-    {
       "basename": "index template",
       "path": "05 templates/index template.md"
     },
@@ -204,10 +211,6 @@
     {
       "basename": "cad",
       "path": "02 sources/media/cad.png"
-    },
-    {
-      "basename": "firmware",
-      "path": "02 sources/media/firmware.png"
     }
   ],
   "omittedPaths": [],
