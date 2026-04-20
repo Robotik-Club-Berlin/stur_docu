@@ -1,8 +1,17 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD:StuR docu/.obsidian/plugins/recent-files-obsidian/data.json
       "basename": "minutes_14042026",
       "path": "06 Zettelkasten/minutes_14042026.md"
+=======
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
+      "basename": "special",
+      "path": "03 indexes/notes/special.md"
+>>>>>>> mv-vault:.obsidian/plugins/recent-files-obsidian/data.json
     },
     {
       "basename": "minutes_14042026",
