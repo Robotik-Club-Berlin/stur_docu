@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
       "basename": "special",
       "path": "03 indexes/notes/special.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "research",
       "path": "02 sources/media/research.png"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
     },
     {
       "basename": "minutes",
