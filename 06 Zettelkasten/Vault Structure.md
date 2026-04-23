@@ -41,6 +41,11 @@ This way the information is organized hierarchically but still can cross referen
 ### Support structure 
 To only organize notes into the [[Zettelkasten]] there is a sources folder for pdf files or other media. Also the indexes and tags are in different folders to be able to quick view them via file explorer. At last there are the template folder for quick formatting of new notes and the welcome folder to get into the structure of the vault as fast as possible. 
 
+### none note tags
+If you want to further define the category your Note falls into you can add #cad
+#electronics #firmware #software #organization
+This come in handy if you want to sort in a note tag like motor which is sorted to more than one index to only see a certain part of the project.
+
 
 
 

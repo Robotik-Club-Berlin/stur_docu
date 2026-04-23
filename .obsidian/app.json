@@ -4,5 +4,11 @@
   "promptDelete": false,
   "attachmentFolderPath": "02 sources/media",
   "newFileLocation": "folder",
-  "newFileFolderPath": "06 Zettelkasten"
+  "newFileFolderPath": "06 Zettelkasten",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
