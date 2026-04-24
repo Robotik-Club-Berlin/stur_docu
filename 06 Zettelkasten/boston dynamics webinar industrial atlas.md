@@ -1,5 +1,5 @@
 ---
-tag:
+Topic:
   - "[[research]]"
 related:
   - "[[existing humanoids]]"

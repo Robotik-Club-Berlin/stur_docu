@@ -3,7 +3,9 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("04 tags/notes/motor")
+        - file.hasLink("04 topics/notes/motor")
     groupBy:
       property: tags
       direction: ASC
+  - type: table
+    name: View

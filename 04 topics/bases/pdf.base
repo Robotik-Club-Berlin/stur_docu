@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.hasLink("04 topics/notes/pdf")
+        - file.name.contains(".pdf")

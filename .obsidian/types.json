@@ -6,6 +6,7 @@
     "related": "multitext",
     "tag": "multitext",
     "contributor": "multitext",
-    "index": "multitext"
+    "index": "multitext",
+    "Topic": "multitext"
   }
 }

@@ -1,5 +1,5 @@
 ---
-tag: "[[minutes]]"
+Topic: "[[minutes]]"
 related:
 date: 2026-04-23 17:43
 ---

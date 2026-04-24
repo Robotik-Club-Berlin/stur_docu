@@ -1,5 +1,5 @@
 ---
-tag: "[[minutes]]"
+Topic: "[[minutes]]"
 related:
 date: "{{date}} {{time}}"
 ---

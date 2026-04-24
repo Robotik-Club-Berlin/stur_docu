@@ -1,5 +1,5 @@
 ---
-tag:
+Topic:
   - "[[Robotics Club Berlin eV]]"
 related:
   - "[[Club Space]]"
@@ -12,7 +12,7 @@ tags:
 # Keypoints club constitution
 
 ### OpenSource vs Individual rights
-The club should encourage to found start ups out of work created in the club. There should be a clause that everything the robotics club produces is open source as long as the creator doesn't agree on this / wants to change the license of his own creation. 
+The club should encourage to found start ups out of work created in öthe club. There should be a clause that everything the robotics club produces is open source as long as the creator doesn't agree on this / wants to change the license of his own creation. 
 
 
 

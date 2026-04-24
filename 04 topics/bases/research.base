@@ -3,4 +3,4 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("04 tags/notes/obsidian")
+        - file.hasLink("04 topics/notes/research")

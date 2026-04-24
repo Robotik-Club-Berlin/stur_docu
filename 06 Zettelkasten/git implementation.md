@@ -1,5 +1,5 @@
 ---
-tag:
+Topic:
   - "[[obsidian]]"
 related:
   - "[[readme]]"

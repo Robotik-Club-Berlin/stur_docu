@@ -3,5 +3,5 @@ views:
     name: Table
     filters:
       and:
-        - file.hasLink("04 tags/notes/minutes")
+        - file.hasLink("04 topics/notes/minutes")
         - file.inFolder("06 Zettelkasten")

@@ -1,5 +1,5 @@
 ---
-Tag: "[[pdf]]"
+Topic: "[[pdf]]"
 contributor:
 related:
 date: "{{date}} {{time}}"
