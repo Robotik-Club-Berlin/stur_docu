@@ -39,6 +39,7 @@ The bases used in indexes are card bases (like the home note base). So add a pic
 -----
 You can delete the embedded picture not. 
 If you want to use standard icons you can find them [here](https://fontawesome.com/search?f=classic&s=solid&it=round) (The weblink was created by ctrl + k)
+The color used for the standard icon currently is: rgba(139, 126, 200, 1.00)
 
 ---- 
 ## Creating a new template

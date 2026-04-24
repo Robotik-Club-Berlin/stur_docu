@@ -9,10 +9,10 @@ date: "{{date}} {{time}}"
 - [ ] Tobias Reich
 - [ ] Yoshi Gesierich
 - [ ] André Axmann
-- [ ] Falk Young de Lacerda Tavares
 - [ ] Jonas Peters
 - [ ] Andre auf dem Keller
 - [ ] Willhelm Pleß
+- [ ] Florens Gebhardt
 ------ 
 ### Organizational
 

@@ -1,5 +1,5 @@
 # Welcome
-at StuR this project is aimed at creating cool robots :D
+at StuR / Robotics Club Berlin this project is aimed at creating cool robots :D
 
 If your new, maybe go through the [[readme]].
 
