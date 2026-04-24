@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "headings",
-      "path": "06 Zettelkasten/headings.md"
+      "basename": "SimpleFOCBoards",
+      "path": "06 Zettelkasten/SimpleFOCBoards.md"
+    },
+    {
+      "basename": "research",
+      "path": "04 tags/notes/research.md"
+    },
+    {
+      "basename": "motor",
+      "path": "04 tags/notes/motor.md"
+    },
+    {
+      "basename": "motor",
+      "path": "04 tags/bases/motor.base"
+    },
+    {
+      "basename": "tag Template",
+      "path": "05 templates/tag Template.md"
+    },
+    {
+      "basename": "video Template",
+      "path": "05 templates/video Template.md"
+    },
+    {
+      "basename": "pdf template",
+      "path": "05 templates/pdf template.md"
+    },
+    {
+      "basename": "minutes template",
+      "path": "05 templates/minutes template.md"
+    },
+    {
+      "basename": "index template",
+      "path": "05 templates/index template.md"
+    },
+    {
+      "basename": "idea template",
+      "path": "05 templates/idea template.md"
+    },
+    {
+      "basename": "motor",
+      "path": "02 sources/media/motor.png"
+    },
+    {
+      "basename": "minutes_230426",
+      "path": "06 Zettelkasten/minutes_230426.md"
+    },
+    {
+      "basename": "minutes_14042026",
+      "path": "06 Zettelkasten/minutes_14042026.md"
+    },
+    {
+      "basename": "boston dynamics webinar industrial atlas",
+      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "git implementation",
+      "path": "06 Zettelkasten/git implementation.md"
+    },
+    {
+      "basename": "VCS-Version Control System",
+      "path": "06 Zettelkasten/VCS-Version Control System.md"
+    },
+    {
+      "basename": "Git Setup Guide",
+      "path": "06 Zettelkasten/Git Setup Guide.md"
+    },
+    {
+      "basename": "Vorstellung StuR",
+      "path": "06 Zettelkasten/Vorstellung StuR.md"
     },
     {
       "basename": "special",
       "path": "03 indexes/notes/special.md"
+    },
+    {
+      "basename": "headings",
+      "path": "06 Zettelkasten/headings.md"
     },
     {
       "basename": "pdf",
@@ -29,10 +105,6 @@
       "path": "02 sources/media/obsidian.png"
     },
     {
-      "basename": "tag Template",
-      "path": "05 templates/tag Template.md"
-    },
-    {
       "basename": "quick guide",
       "path": "06 Zettelkasten/quick guide.md"
     },
@@ -51,10 +123,6 @@
     {
       "basename": "pdf",
       "path": "02 sources/media/pdf.png"
-    },
-    {
-      "basename": "research",
-      "path": "04 tags/notes/research.md"
     },
     {
       "basename": "research",
@@ -97,10 +165,6 @@
       "path": "02 sources/media/firmware.png"
     },
     {
-      "basename": "minutes template",
-      "path": "05 templates/minutes template.md"
-    },
-    {
       "basename": "electronics",
       "path": "03 indexes/notes/electronics.md"
     },
@@ -109,40 +173,16 @@
       "path": "03 indexes/notes/cad.md"
     },
     {
-      "basename": "idea template",
-      "path": "05 templates/idea template.md"
-    },
-    {
       "basename": "Vault Structure",
       "path": "06 Zettelkasten/Vault Structure.md"
-    },
-    {
-      "basename": "Vorstellung StuR",
-      "path": "06 Zettelkasten/Vorstellung StuR.md"
-    },
-    {
-      "basename": "minutes_230426",
-      "path": "06 Zettelkasten/minutes_230426.md"
-    },
-    {
-      "basename": "Git Setup Guide",
-      "path": "06 Zettelkasten/Git Setup Guide.md"
     },
     {
       "basename": "Keypoints club constitution",
       "path": "06 Zettelkasten/Keypoints club constitution.md"
     },
     {
-      "basename": "minutes_14042026",
-      "path": "06 Zettelkasten/minutes_14042026.md"
-    },
-    {
       "basename": "obsidian plugins",
       "path": "06 Zettelkasten/obsidian plugins.md"
-    },
-    {
-      "basename": "git implementation",
-      "path": "06 Zettelkasten/git implementation.md"
     },
     {
       "basename": "Club Space",
@@ -159,10 +199,6 @@
     {
       "basename": "readme",
       "path": "01 Welcome/readme.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

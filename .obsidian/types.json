@@ -5,6 +5,7 @@
     "tags": "tags",
     "related": "multitext",
     "tag": "multitext",
-    "contributor": "multitext"
+    "contributor": "multitext",
+    "index": "multitext"
   }
 }
