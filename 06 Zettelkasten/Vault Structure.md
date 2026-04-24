@@ -6,6 +6,8 @@ related:
 contributor:
   - Andre auf dem Keller
 date: 2026-04-19 14:00
+tags:
+  - organization
 ---
 # Vault Structure
 

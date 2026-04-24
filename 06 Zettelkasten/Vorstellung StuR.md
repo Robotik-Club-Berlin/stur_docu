@@ -6,6 +6,7 @@ contributor:
   - Andre auf dem Keller
 date: 2026-04-21 14:22
 tags:
+  - organization
 ---
 # Vorstellung StuR
 ----

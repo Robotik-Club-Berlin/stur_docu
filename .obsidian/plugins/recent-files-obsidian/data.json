@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "quick guide",
+      "path": "06 Zettelkasten/quick guide.md"
     },
     {
       "basename": "Vault Structure",
       "path": "06 Zettelkasten/Vault Structure.md"
     },
     {
-      "basename": "quick guide",
-      "path": "06 Zettelkasten/quick guide.md"
+      "basename": "VCS-Version Control System",
+      "path": "06 Zettelkasten/VCS-Version Control System.md"
+    },
+    {
+      "basename": "Vorstellung StuR",
+      "path": "06 Zettelkasten/Vorstellung StuR.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "boston dynamics webinar industrial atlas",
@@ -55,14 +63,6 @@
     {
       "basename": "sponsors and funding",
       "path": "06 Zettelkasten/sponsors and funding.md"
-    },
-    {
-      "basename": "VCS-Version Control System",
-      "path": "06 Zettelkasten/VCS-Version Control System.md"
-    },
-    {
-      "basename": "Vorstellung StuR",
-      "path": "06 Zettelkasten/Vorstellung StuR.md"
     },
     {
       "basename": "idea template",

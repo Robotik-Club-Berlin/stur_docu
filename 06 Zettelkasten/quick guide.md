@@ -11,14 +11,21 @@ tags:
 ---
 # quick guide
 ----
+## new to markdown?
+than feel free to look at the internet link for markdown syntax added to the related Property. 
+
 ## How to create a note
 You just press ctrl + n to create a new tab than you press ctrl + o to search if you note already exists and if note you press shift + enter to create it.
 
+You can also add a tab above and click on new note. 
+
 ---- 
 By ctrl + t you select the standard template to use a standard format. 
-Then like in the properties above you just select the tags your note falls under. Think of other notes or pdf's the new note relates to and list them in the related property. 
+Then like in the properties above you just select the topics your note falls under. Think of other notes or pdf's the new note relates to and list them in the related property. You can also add internet links there.  
 
 You can also add you name to contributed to let other know whom to ask if they have questions about the note.
+
+If you just want to start writing feel free to leave the rest of the quick guide behind and come back to it later if you want to learn how to embed [[quick guide#media embedding|media]] or [[quick guide#Adding pdf's|pdf's]]. Or add [[quick guide#Adding Docu to a certain Repository object|docu]], new [[quick guide#Adding a new topic|topics]] [[quick guide#Creating a new template|template's]] to the vault. 
 
 ----
 ## media embedding
@@ -28,7 +35,7 @@ If you want to embed media into your note you can just copy it from your clipboa
 ## Adding pdf's
 Pdf's you embed via copy past are getting sorted automatically into the media folder. 
 
-It's **recommended** to create a new note with the same name and the pdf template to add Keypoints, propertied or connections to it but its not a must. 
+It's **recommended** to create a new note with the same name and the pdf template to add Keypoints, properties or connections to it but its not a must. 
 
 Either way every pdf is shown in the pdf topic. 
 
@@ -58,7 +65,7 @@ Although Obsidian offers great structure for every Idea, Research and Knowledge 
 But this can easily be addressed by just naming a note the same way the object you want to document is called in the repo and adding the docu tag as well as adding the topic the docu falls under in the properties. 
 
 ### as pdf
-If you really want to use the pdf format for documentation with multiple sites created in latex that is also no problem at all. You just create a file the same way as you would explained in [[quick guide#as markdown]] and instead of writing the docu in markdown you embed the pdf into it. You are limited in creating markdown links to connect you knowledge to other related ideas that way but you do you :D 
+If you really want to use the pdf format for documentation with multiple sites created in latex that is also no problem at all. You just create a file the same way as you would explained in [[quick guide#as markdown]] and instead of writing the docu in markdown you embed the pdf like [[quick guide#Adding pdf's]] explained. You are limited in creating markdown links to connect you knowledge to other related ideas that way but you do you :D 
 
 ### [[Vault Structure]]
 
