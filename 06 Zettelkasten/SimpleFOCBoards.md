@@ -1,6 +1,7 @@
 ---
 tag:
   - "[[research]]"
+  - "[[motor]]"
 related:
   - https://simplefoc.com/#simplefoc_shiled
 contributor:
