@@ -13,16 +13,28 @@
       "path": "01 Welcome/Home.md"
     },
     {
+      "basename": "VCS-Version Control System",
+      "path": "06 Zettelkasten/VCS-Version Control System.md"
+    },
+    {
+      "basename": "SimpleFOCBoards",
+      "path": "06 Zettelkasten/SimpleFOCBoards.md"
+    },
+    {
+      "basename": "quick guide",
+      "path": "06 Zettelkasten/quick guide.md"
+    },
+    {
+      "basename": "boston dynamics webinar industrial atlas",
+      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
+    },
+    {
       "basename": "motor",
       "path": "02 sources/media/motor.png"
     },
     {
       "basename": "motor",
       "path": "04 topics/notes/motor.md"
-    },
-    {
-      "basename": "boston dynamics webinar industrial atlas",
-      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
     },
     {
       "basename": "README",
@@ -33,16 +45,8 @@
       "path": "06 Zettelkasten/Git Setup Guide.md"
     },
     {
-      "basename": "quick guide",
-      "path": "06 Zettelkasten/quick guide.md"
-    },
-    {
       "basename": "Vault Structure",
       "path": "06 Zettelkasten/Vault Structure.md"
-    },
-    {
-      "basename": "VCS-Version Control System",
-      "path": "06 Zettelkasten/VCS-Version Control System.md"
     },
     {
       "basename": "Vorstellung StuR",
@@ -75,10 +79,6 @@
     {
       "basename": "obsidian plugins",
       "path": "06 Zettelkasten/obsidian plugins.md"
-    },
-    {
-      "basename": "SimpleFOCBoards",
-      "path": "06 Zettelkasten/SimpleFOCBoards.md"
     },
     {
       "basename": "sponsors and funding",

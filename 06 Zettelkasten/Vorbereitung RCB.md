@@ -39,7 +39,6 @@ Vorstand
 - Deeptech Hub 
 - Robotikverband
 - BHT
-- 
 
 
 
