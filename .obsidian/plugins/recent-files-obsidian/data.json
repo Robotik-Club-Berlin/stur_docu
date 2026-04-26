@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Vorbereitung RCB",
+      "path": "06 Zettelkasten/Vorbereitung RCB.md"
+    },
+    {
+      "basename": "Robotics Club Berlin eV",
+      "path": "04 topics/notes/Robotics Club Berlin eV.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
+      "basename": "motor",
+      "path": "02 sources/media/motor.png"
+    },
+    {
+      "basename": "motor",
+      "path": "04 topics/notes/motor.md"
+    },
+    {
+      "basename": "boston dynamics webinar industrial atlas",
+      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Git Setup Guide",
+      "path": "06 Zettelkasten/Git Setup Guide.md"
+    },
+    {
       "basename": "quick guide",
       "path": "06 Zettelkasten/quick guide.md"
     },
@@ -17,24 +49,12 @@
       "path": "06 Zettelkasten/Vorstellung StuR.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "boston dynamics webinar industrial atlas",
-      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
-    },
-    {
       "basename": "Club Space",
       "path": "06 Zettelkasten/Club Space.md"
     },
     {
       "basename": "git implementation",
       "path": "06 Zettelkasten/git implementation.md"
-    },
-    {
-      "basename": "Git Setup Guide",
-      "path": "06 Zettelkasten/Git Setup Guide.md"
     },
     {
       "basename": "headings",
@@ -117,10 +137,6 @@
       "path": "04 topics/notes/obsidian.md"
     },
     {
-      "basename": "motor",
-      "path": "04 topics/notes/motor.md"
-    },
-    {
       "basename": "minutes",
       "path": "04 topics/notes/minutes.md"
     },
@@ -133,10 +149,6 @@
       "path": "03 indexes/notes/cad.md"
     },
     {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
-    },
-    {
       "basename": "software",
       "path": "03 indexes/notes/software.md"
     },
@@ -145,20 +157,12 @@
       "path": "04 topics/bases/motor.base"
     },
     {
-      "basename": "motor",
-      "path": "02 sources/media/motor.png"
-    },
-    {
       "basename": "special",
       "path": "03 indexes/notes/special.md"
     },
     {
       "basename": "obsidian",
       "path": "02 sources/media/obsidian.png"
-    },
-    {
-      "basename": "Robotics Club Berlin eV",
-      "path": "04 topics/bases/Robotics Club Berlin eV.md"
     },
     {
       "basename": "pdf",
@@ -195,10 +199,6 @@
     {
       "basename": "firmware",
       "path": "03 indexes/notes/firmware.md"
-    },
-    {
-      "basename": "firmware",
-      "path": "02 sources/media/firmware.png"
     }
   ],
   "omittedPaths": [],
