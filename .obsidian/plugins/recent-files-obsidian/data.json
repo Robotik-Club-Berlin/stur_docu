@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "minutes_14042026",
-      "path": "06 Zettelkasten/minutes_14042026.md"
-    },
-    {
-      "basename": "minutes_230426",
-      "path": "06 Zettelkasten/minutes_230426.md"
-    },
-    {
-      "basename": "obsidian plugins",
-      "path": "06 Zettelkasten/obsidian plugins.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
-    },
-    {
       "basename": "Vorbereitung RCB",
       "path": "06 Zettelkasten/Vorbereitung RCB.md"
     },
@@ -35,10 +19,6 @@
     {
       "basename": "quick guide",
       "path": "06 Zettelkasten/quick guide.md"
-    },
-    {
-      "basename": "boston dynamics webinar industrial atlas",
-      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
     },
     {
       "basename": "motor",
@@ -195,10 +175,6 @@
     {
       "basename": "cad",
       "path": "02 sources/media/cad.png"
-    },
-    {
-      "basename": "firmware",
-      "path": "03 indexes/notes/firmware.md"
     }
   ],
   "omittedPaths": [],
