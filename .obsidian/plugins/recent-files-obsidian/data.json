@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Cycloidal Drive",
+      "path": "06 Zettelkasten/Cycloidal Drive.md"
+    },
+    {
+      "basename": "motor_m_cycloidal_dimensioning_2_0",
+      "path": "02 sources/media/motor_m_cycloidal_dimensioning_2_0.png"
+    },
+    {
       "basename": "Vorbereitung RCB",
       "path": "06 Zettelkasten/Vorbereitung RCB.md"
+    },
+    {
+      "basename": "Vault Structure",
+      "path": "06 Zettelkasten/Vault Structure.md"
+    },
+    {
+      "basename": "motor_m_cycloidal_dimensioning_1_0",
+      "path": "02 sources/media/motor_m_cycloidal_dimensioning_1_0.png"
+    },
+    {
+      "basename": "motor_m_cycloidal_dimensioning_1_5",
+      "path": "02 sources/media/motor_m_cycloidal_dimensioning_1_5.png"
     },
     {
       "basename": "Robotics Club Berlin eV",
@@ -35,10 +55,6 @@
     {
       "basename": "Git Setup Guide",
       "path": "06 Zettelkasten/Git Setup Guide.md"
-    },
-    {
-      "basename": "Vault Structure",
-      "path": "06 Zettelkasten/Vault Structure.md"
     },
     {
       "basename": "Vorstellung StuR",
