@@ -21,7 +21,7 @@ Vorstand
 ## Vorstand
 ### Aufgaben
 - Finanzielle Verwaltung
-- Organisieren von Öffentlichkeit 
+- Organisieren von Öffentlichkeit
 - Organisieren von Sponsoren
 - Festlegung/Kommunikation von Standards (Softwarestandards, Lizenzen...)
 - Organisieren der Mitgliederversammlung
@@ -32,6 +32,15 @@ Vorstand
 
 ## Mitgliederversammlung
 ### Voraussetzung Einberufung 
+
+## Unterstützungsmöglichkeiten
+
+## Ansprechparter
+- Deeptech Hub 
+- Robotikverband
+- BHT
+- 
+
 
 
 
