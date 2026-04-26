@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "existing humanoids",
+      "path": "06 Zettelkasten/existing humanoids.md"
+    },
+    {
+      "basename": "boston dynamics webinar industrial atlas",
+      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
+    },
+    {
       "basename": "Vorbereitung RCB",
       "path": "06 Zettelkasten/Vorbereitung RCB.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "quick guide",
       "path": "06 Zettelkasten/quick guide.md"
-    },
-    {
-      "basename": "boston dynamics webinar industrial atlas",
-      "path": "06 Zettelkasten/boston dynamics webinar industrial atlas.md"
     },
     {
       "basename": "motor",
@@ -195,10 +199,6 @@
     {
       "basename": "cad",
       "path": "02 sources/media/cad.png"
-    },
-    {
-      "basename": "firmware",
-      "path": "03 indexes/notes/firmware.md"
     }
   ],
   "omittedPaths": [],
