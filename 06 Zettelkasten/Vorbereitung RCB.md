@@ -12,7 +12,28 @@ tags:
 # Vorbereitung RCB
 
 ## Was ist der Zweck?
-Der Robotik Club Berlin e.V verfolgt das Ziel, Studenten 
+Der Robotik Club Berlin e.V verfolgt das Ziel, Studenten und 
+
+## Organisationsstruktur
+
+Vorstand
+
+## Vorstand
+### Aufgaben
+- Finanzielle Verwaltung
+- Organisieren von Öffentlichkeit 
+- Organisieren von Sponsoren
+- Festlegung/Kommunikation von Standards (Softwarestandards, Lizenzen...)
+- Organisieren der Mitgliederversammlung
+- Organisieren der Versicherungen
+- Kaufentscheidungen
+### Aufbau
+- 5 Mitglieder oder 3 Mitglieder?
+
+## Mitgliederversammlung
+### Voraussetzung Einberufung 
+
+
 
 
 
