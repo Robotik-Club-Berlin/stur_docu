@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Git onboarding",
+      "path": "06 Zettelkasten/Git onboarding.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Cycloidal Drive",
       "path": "06 Zettelkasten/Cycloidal Drive.md"
     },
@@ -37,10 +49,6 @@
       "path": "03 indexes/notes/cad.md"
     },
     {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
-    },
-    {
       "basename": "motor_m_cycloidal_dimensioning_2_0",
       "path": "02 sources/media/motor_m_cycloidal_dimensioning_2_0.png"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "motor",
       "path": "02 sources/media/motor.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Git Setup Guide",
@@ -195,10 +199,6 @@
     {
       "basename": "special",
       "path": "02 sources/media/special.png"
-    },
-    {
-      "basename": "ideas",
-      "path": "02 sources/media/ideas.png"
     }
   ],
   "omittedPaths": [],
