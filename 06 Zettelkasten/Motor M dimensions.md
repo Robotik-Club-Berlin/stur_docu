@@ -28,15 +28,16 @@ Look at [[Cycloidal Drive]] for full explanation of all calculations.
 
 ### Core Geometry
 
-| Symbol    | Param                                | Value       | Unit | Notes            |
-| --------- | ------------------------------------ | ----------- | ---- | ---------------- |
-| $N_{l}$   | Number of lobes (cycloid disc teeth) | 20          | -    |                  |
-| $N_{p}$   | Number of ring pins                  | $N_{l} + 1$ | -    | Always lobes + 1 |
-| $N_{out}$ | Number of output shaft pins          | 6           | -    |                  |
-| $R_{p}$   | Ring pin circle radius               | 42.5        | mm   |                  |
-| $R_{out}$ | Output shaft pin radius              | 28.5        | mm   |                  |
-| $R_{r}$   | Pin radius                           | 8           | mm   | Roller radius    |
-| $e$       | Eccentricity                         | 1.4         | mm   | Typ. 0.5–2 mm    |
+| Symbol     | Param                                | Value       | Unit | Notes            |
+| ---------- | ------------------------------------ | ----------- | ---- | ---------------- |
+| $N_{l}$    | Number of lobes (cycloid disc teeth) | 20          | -    |                  |
+| $N_{p}$    | Number of ring pins                  | $N_{l} + 1$ | -    | Always lobes + 1 |
+| $N_{out}$  | Number of output shaft pins          | 6           | -    |                  |
+| $R_{p}$    | Ring pin circle radius               | 42.5        | mm   |                  |
+| $R_{out}$  | Output shaft pin radius              | 28.5        | mm   |                  |
+| $R_{r}$    | Pin radius                           | 8           | mm   | Roller radius    |
+| $e$        | Eccentricity                         | 1.4         | mm   | Typ. 0.5–2 mm    |
+| $h_{disk}$ | Disk height                          | 9           | mm   |                  |
 
 ```
 ((42.5)*cos(t))-(4*cos(t+arctan(sin((1-21)*t)/(((42.5)/(1.4*21))-cos((1-21)*t)))))-(1.4*cos(21*t))
