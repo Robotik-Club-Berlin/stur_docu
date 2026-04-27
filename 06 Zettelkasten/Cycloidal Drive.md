@@ -16,7 +16,7 @@ With $N_{l}$ being the number of lobes on the cycloidal disk and $N_{p}$ being t
 
 ## Eccentricity
 The eccentricity $e$ defines how much the cycloidal disks center point is offset from the center axis, and therefore how much the disk engages with the ring gear pins.
-A lower $e$ results in less unbalance but also a lower pressure angle between disk and pins.
+A lower $e$ results in less unbalance but also a higher pressure angle between disk and pins.
 
 ## Pressure angle
 >The pressure angle is defined as the angle between the common normal at the cycloid–pin contact and the instantaneous velocity direction at that point. **In other words,** it determines how effectively the contact force is converted into torque. **When the pressure angle is lower** within the working region, several benefits occur: load transmission improves, sliding is reduced, efficiency increases, heat generation decreases, wear is minimized, and transmission error is lowered.
@@ -28,7 +28,21 @@ The pressure angle is directly impacted by:
 
 [This simulator](https://mevirtuoso.com/cycloidal-drive/) Numerically calculates the pressure angle for a given configuration as a function of input rotation angle.
 
-TODO: Impact of pressure angle on backdrivability
+### Impact on forward and backdrive efficiency
+#### Force Decomposition
+At a cycloidal pin contact, the contact force $F_n$ splits along the
+pressure angle $\alpha$:
+- $F_n \cos(\alpha)$: tangential to motion (drives output)
+- $F_n \sin(\alpha)$: normal to motion (radial reaction)
+Friction at the contact: $F_{fric} = \mu \cdot F_n$ , acting against sliding.
+#### Forward Efficiency
+When power flows input > output, the useful component is tangential ($\cos\alpha$),
+the loss is along the sliding direction ($\sin\alpha$):$$\eta_{fwd} = \frac{\cos\alpha}{\cos\alpha + \mu \sin\alpha} = \frac{1}{1 + \mu \tan\alpha}$$
+#### Backdrive Efficiency
+When power flows output > input, the geometry inverts which component
+is useful. The radial direction ($\sin\alpha$) couples back into the
+input shaft via the eccentricity lever:$$\eta_{back} = \frac{\sin\alpha}{\sin\alpha + \mu \cos\alpha} = \frac{1}{1 + \mu \cot\alpha}$$
+![[cycloid_efficiency.png]]
 ### Number of Engaged Pins (Rule of Thumb)
 $$N_{eff} \approx \frac{N_{p}}{4}$$
 - Half of all pins lie in the load-bearing zone ($\alpha < 90°$)
