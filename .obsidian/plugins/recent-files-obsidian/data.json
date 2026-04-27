@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Club Space",
+      "path": "06 Zettelkasten/Club Space.md"
+    },
+    {
       "basename": "Cycloidal Drive",
       "path": "06 Zettelkasten/Cycloidal Drive.md"
+    },
+    {
+      "basename": "readme",
+      "path": "01 Welcome/readme.md"
+    },
+    {
+      "basename": "Calculations_Torque",
+      "path": "06 Zettelkasten/Calculations_Torque.md"
+    },
+    {
+      "basename": "arm",
+      "path": "04 topics/notes/arm.md"
+    },
+    {
+      "basename": "arm",
+      "path": "04 topics/bases/arm.base"
+    },
+    {
+      "basename": "pdf",
+      "path": "04 topics/notes/pdf.md"
+    },
+    {
+      "basename": "dimensions_arm2",
+      "path": "02 sources/media/dimensions_arm2.png"
+    },
+    {
+      "basename": "dimensions_arm",
+      "path": "02 sources/media/dimensions_arm.png"
+    },
+    {
+      "basename": "Torq_Calc",
+      "path": "02 sources/media/Torq_Calc.png"
+    },
+    {
+      "basename": "research",
+      "path": "04 topics/notes/research.md"
+    },
+    {
+      "basename": "special",
+      "path": "03 indexes/notes/special.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
+      "basename": "headings",
+      "path": "06 Zettelkasten/headings.md"
+    },
+    {
+      "basename": "home",
+      "path": "01 Welcome/home.base"
     },
     {
       "basename": "obsidian plugins",
@@ -43,10 +99,6 @@
     {
       "basename": "sponsors and funding",
       "path": "06 Zettelkasten/sponsors and funding.md"
-    },
-    {
-      "basename": "Club Space",
-      "path": "06 Zettelkasten/Club Space.md"
     },
     {
       "basename": "existing humanoids",
@@ -137,10 +189,6 @@
       "path": "05 templates/video Template.md"
     },
     {
-      "basename": "pdf",
-      "path": "04 topics/notes/pdf.md"
-    },
-    {
       "basename": "Club Space",
       "path": "02 sources/media/Club Space.pdf"
     },
@@ -151,10 +199,6 @@
     {
       "basename": "ideas",
       "path": "04 topics/notes/ideas.md"
-    },
-    {
-      "basename": "research",
-      "path": "04 topics/notes/research.md"
     },
     {
       "basename": "obsidian",

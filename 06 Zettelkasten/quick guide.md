@@ -15,7 +15,7 @@ tags:
 than feel free to look at the internet link for markdown syntax added to the related Property. 
 
 ## How to create a note
-You just press ctrl + n to create a new tab than you press ctrl + o to search if you note already exists and if note you press shift + enter to create it.
+You just press ctrl + n to create a new tab than you press ctrl + o to search if your note already exists and if note you press shift + enter to create it.
 
 You can also add a tab above and click on new note. 
 
