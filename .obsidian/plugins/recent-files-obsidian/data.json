@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Git onboarding",
-      "path": "06 Zettelkasten/Git onboarding.md"
-    },
-    {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Cycloidal Drive",
       "path": "06 Zettelkasten/Cycloidal Drive.md"
     },
@@ -23,6 +11,30 @@
     {
       "basename": "odrive motor driver",
       "path": "06 Zettelkasten/odrive motor driver.md"
+    },
+    {
+      "basename": "motor",
+      "path": "04 topics/notes/motor.md"
+    },
+    {
+      "basename": "cad",
+      "path": "03 indexes/notes/cad.md"
+    },
+    {
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
+      "basename": "Git onboarding",
+      "path": "06 Zettelkasten/Git onboarding.md"
+    },
+    {
+      "basename": "readme",
+      "path": "01 Welcome/readme.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "SimpleFOCBoards",
@@ -39,14 +51,6 @@
     {
       "basename": "existing humanoids",
       "path": "06 Zettelkasten/existing humanoids.md"
-    },
-    {
-      "basename": "motor",
-      "path": "04 topics/notes/motor.md"
-    },
-    {
-      "basename": "cad",
-      "path": "03 indexes/notes/cad.md"
     },
     {
       "basename": "motor_m_cycloidal_dimensioning_2_0",
@@ -195,10 +199,6 @@
     {
       "basename": "minutes",
       "path": "02 sources/media/minutes.png"
-    },
-    {
-      "basename": "special",
-      "path": "02 sources/media/special.png"
     }
   ],
   "omittedPaths": [],

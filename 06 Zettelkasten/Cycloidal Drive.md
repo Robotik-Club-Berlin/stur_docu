@@ -6,6 +6,7 @@ contributor:
   - Tobias Reich
 date: 2026-04-26 14:33
 tags:
+  - cad
 ---
 # Cycloidal drive
 
