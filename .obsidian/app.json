@@ -6,6 +6,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "06 Zettelkasten",
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
