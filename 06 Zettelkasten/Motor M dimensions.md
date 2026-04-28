@@ -3,6 +3,7 @@ Topic:
   - "[[motor]]"
 related:
   - "[[Cycloidal Drive]]"
+  - "[[Material Properties]]"
 contributor:
   - Tobias Reich
 date: 2026-04-27 22:43
@@ -12,7 +13,7 @@ tags:
 
 ## Cycloidal drive
 Look at [[Cycloidal Drive]] for full explanation of all calculations.
-In the workspaces `script` folder there is a python script that does the calculation for you
+In the workspaces `script` folder there is a python script that does most of the calculations for you
 ### Validation list
 
 - [x] Disk material must hold up to $p_{p,max}$ and $p_{p,max}$
