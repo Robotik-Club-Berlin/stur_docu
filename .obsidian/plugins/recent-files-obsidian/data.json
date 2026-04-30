@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "01 Welcome/Home.md"
+    },
+    {
+      "basename": "standard template",
+      "path": "05 templates/standard template.md"
+    },
+    {
+      "basename": "topics Template",
+      "path": "05 templates/topics Template.md"
+    },
+    {
+      "basename": "quick guide",
+      "path": "06 Zettelkasten/quick guide.md"
+    },
+    {
+      "basename": "odrive motor driver",
+      "path": "06 Zettelkasten/odrive motor driver.md"
+    },
+    {
+      "basename": "minutes_14042026",
+      "path": "06 Zettelkasten/minutes_14042026.md"
+    },
+    {
+      "basename": "obsidian plugins",
+      "path": "06 Zettelkasten/obsidian plugins.md"
+    },
+    {
+      "basename": "minutes_230426",
+      "path": "06 Zettelkasten/minutes_230426.md"
+    },
+    {
+      "basename": "Keypoints club constitution",
+      "path": "06 Zettelkasten/Keypoints club constitution.md"
+    },
+    {
+      "basename": "headings",
+      "path": "06 Zettelkasten/headings.md"
+    },
+    {
+      "basename": "Calculations_Torque",
+      "path": "06 Zettelkasten/Calculations_Torque.md"
+    },
+    {
       "basename": "Club Space",
       "path": "06 Zettelkasten/Club Space.md"
     },
@@ -9,20 +53,56 @@
       "path": "06 Zettelkasten/Cycloidal Drive.md"
     },
     {
-      "basename": "readme",
-      "path": "01 Welcome/readme.md"
+      "basename": "existing humanoids",
+      "path": "06 Zettelkasten/existing humanoids.md"
     },
     {
-      "basename": "Calculations_Torque",
-      "path": "06 Zettelkasten/Calculations_Torque.md"
+      "basename": "git implementation",
+      "path": "06 Zettelkasten/git implementation.md"
     },
     {
-      "basename": "arm",
-      "path": "04 topics/notes/arm.md"
+      "basename": "Bildschirmfoto 2026-04-27 um 11.16.19",
+      "path": "02 sources/media/Bildschirmfoto 2026-04-27 um 11.16.19.png"
+    },
+    {
+      "basename": "Bildschirmfoto 2026-04-27 um 11.08.49",
+      "path": "02 sources/media/Bildschirmfoto 2026-04-27 um 11.08.49.png"
     },
     {
       "basename": "arm",
       "path": "04 topics/bases/arm.base"
+    },
+    {
+      "basename": "minutes",
+      "path": "04 topics/bases/minutes.base"
+    },
+    {
+      "basename": "ideas",
+      "path": "04 topics/bases/ideas.base"
+    },
+    {
+      "basename": "Git onboarding",
+      "path": "06 Zettelkasten/Git onboarding.md"
+    },
+    {
+      "basename": "FEM Analysis tutorial",
+      "path": "06 Zettelkasten/FEM Analysis tutorial.md"
+    },
+    {
+      "basename": "readme",
+      "path": "01 Welcome/readme.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "06 Zettelkasten/Untitled.base"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "arm",
+      "path": "04 topics/notes/arm.md"
     },
     {
       "basename": "pdf",
@@ -49,24 +129,8 @@
       "path": "03 indexes/notes/special.md"
     },
     {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
-    },
-    {
-      "basename": "headings",
-      "path": "06 Zettelkasten/headings.md"
-    },
-    {
       "basename": "home",
       "path": "01 Welcome/home.base"
-    },
-    {
-      "basename": "obsidian plugins",
-      "path": "06 Zettelkasten/obsidian plugins.md"
-    },
-    {
-      "basename": "odrive motor driver",
-      "path": "06 Zettelkasten/odrive motor driver.md"
     },
     {
       "basename": "motor",
@@ -77,32 +141,12 @@
       "path": "03 indexes/notes/cad.md"
     },
     {
-      "basename": "Home",
-      "path": "01 Welcome/Home.md"
-    },
-    {
-      "basename": "Git onboarding",
-      "path": "06 Zettelkasten/Git onboarding.md"
-    },
-    {
-      "basename": "readme",
-      "path": "01 Welcome/readme.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "SimpleFOCBoards",
       "path": "06 Zettelkasten/SimpleFOCBoards.md"
     },
     {
       "basename": "sponsors and funding",
       "path": "06 Zettelkasten/sponsors and funding.md"
-    },
-    {
-      "basename": "existing humanoids",
-      "path": "06 Zettelkasten/existing humanoids.md"
     },
     {
       "basename": "motor_m_cycloidal_dimensioning_2_0",
@@ -133,10 +177,6 @@
       "path": "06 Zettelkasten/VCS-Version Control System.md"
     },
     {
-      "basename": "quick guide",
-      "path": "06 Zettelkasten/quick guide.md"
-    },
-    {
       "basename": "motor",
       "path": "02 sources/media/motor.png"
     },
@@ -149,18 +189,6 @@
       "path": "06 Zettelkasten/Vorstellung StuR.md"
     },
     {
-      "basename": "git implementation",
-      "path": "06 Zettelkasten/git implementation.md"
-    },
-    {
-      "basename": "headings",
-      "path": "06 Zettelkasten/headings.md"
-    },
-    {
-      "basename": "Keypoints club constitution",
-      "path": "06 Zettelkasten/Keypoints club constitution.md"
-    },
-    {
       "basename": "idea template",
       "path": "05 templates/idea template.md"
     },
@@ -171,78 +199,6 @@
     {
       "basename": "minutes template",
       "path": "05 templates/minutes template.md"
-    },
-    {
-      "basename": "pdf template",
-      "path": "05 templates/pdf template.md"
-    },
-    {
-      "basename": "standard template",
-      "path": "05 templates/standard template.md"
-    },
-    {
-      "basename": "topics Template",
-      "path": "05 templates/topics Template.md"
-    },
-    {
-      "basename": "video Template",
-      "path": "05 templates/video Template.md"
-    },
-    {
-      "basename": "Club Space",
-      "path": "02 sources/media/Club Space.pdf"
-    },
-    {
-      "basename": "Robotics Club Berlin eV",
-      "path": "02 sources/media/Robotics Club Berlin eV.png"
-    },
-    {
-      "basename": "ideas",
-      "path": "04 topics/notes/ideas.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "04 topics/notes/obsidian.md"
-    },
-    {
-      "basename": "minutes",
-      "path": "04 topics/notes/minutes.md"
-    },
-    {
-      "basename": "cad",
-      "path": "03 indexes/bases/cad.base"
-    },
-    {
-      "basename": "software",
-      "path": "03 indexes/notes/software.md"
-    },
-    {
-      "basename": "motor",
-      "path": "04 topics/bases/motor.base"
-    },
-    {
-      "basename": "special",
-      "path": "03 indexes/notes/special.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "02 sources/media/obsidian.png"
-    },
-    {
-      "basename": "pdf",
-      "path": "02 sources/media/pdf.png"
-    },
-    {
-      "basename": "research",
-      "path": "02 sources/media/research.png"
-    },
-    {
-      "basename": "electronics",
-      "path": "02 sources/media/electronics.png"
-    },
-    {
-      "basename": "minutes",
-      "path": "02 sources/media/minutes.png"
     }
   ],
   "omittedPaths": [],
