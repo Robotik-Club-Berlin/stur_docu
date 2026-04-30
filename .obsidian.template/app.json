@@ -1,0 +1,15 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "02 sources/media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "06 Zettelkasten",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

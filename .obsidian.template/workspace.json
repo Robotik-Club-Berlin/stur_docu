@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2165edfa857a1229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Zettelkasten/quick guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quick guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6468f1284085e073",
+    "type": "split",
+    "children": [
+      {
+        "id": "359d2da44998217f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ce0bc64c0d1f3f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "88fea55f7a9100ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "631edfaab6649fbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8701552fc4dfe8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "895ce962cf508c41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9a979406974a6ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b5f3e4590a5cc4e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "93b0506fe886a648",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eaf579057d8f9394",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e5cf8dcd8043ad4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "2165edfa857a1229",
+  "lastOpenFiles": [
+    "01 Welcome/Home.md",
+    "06 Zettelkasten/Motor M dimensions.md",
+    "06 Zettelkasten/quick guide.md",
+    "06 Zettelkasten/Motor L dimensions.md",
+    "04 topics/notes/motor.md",
+    "06 Zettelkasten/Cycloidal Drive.md",
+    "06 Zettelkasten/Calculations Torque.md",
+    "03 indexes/notes/cad.md",
+    "06 Zettelkasten/Motor S dimensions.md",
+    "06 Zettelkasten/Material Properties.md",
+    "06 Zettelkasten/existing humanoids.md",
+    "06 Zettelkasten/boston dynamics webinar industrial atlas.md",
+    "02 sources/media/cycloid_efficiency.png",
+    "06 Zettelkasten/FEM Analysis tutorial.md",
+    "04 topics/notes/arm.md",
+    "04 topics/bases/arm.base",
+    "02 sources/media/dimensions_arm2.png",
+    "02 sources/media/dimensions_arm.png",
+    "02 sources/media/Torq_Calc.png",
+    "06 Zettelkasten/Git onboarding.md",
+    "06 Zettelkasten/headings.md",
+    "06 Zettelkasten/Git Setup Guide.md",
+    "02 sources/media/Bildschirmfoto 2026-04-27 um 15.00.26.png",
+    "02 sources/media/Bildschirmfoto 2026-04-27 um 15.00.01.png",
+    "02 sources/media/Bildschirmfoto 2026-04-27 um 14.59.14.png",
+    "02 sources/media/Bildschirmfoto 2026-04-27 um 11.50.50.png",
+    "02 sources/media/Bildschirmfoto 2026-04-27 um 11.50.08.png",
+    "02 sources/media/Bildschirmfoto 2026-04-27 um 11.43.49.png",
+    "README.md",
+    "06 Zettelkasten/obsidian plugins.md",
+    "06 Zettelkasten/odrive motor driver.md",
+    "06 Zettelkasten/SimpleFOCBoards.md",
+    "06 Zettelkasten/sponsors and funding.md",
+    "06 Zettelkasten/Club Space.md",
+    "06 Zettelkasten/Vault Structure.md",
+    "06 Zettelkasten/Vorbereitung RCB.md",
+    "06 Zettelkasten/testing_git.md",
+    "04 topics/bases/obsidian.base",
+    "04 topics/bases/research.base",
+    "04 topics/bases/pdf.base",
+    "04 topics/bases/motor.base",
+    "04 topics/bases/minutes.base",
+    "04 topics/bases/ideas.base",
+    "04 topics/bases/Robotics Club Berlin eV.base",
+    "04 topics/notes",
+    "04 topics/bases"
+  ]
+}
