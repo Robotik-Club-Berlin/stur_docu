@@ -4,12 +4,13 @@ Topic:
 related:
   - "[[Cycloidal Drive]]"
   - "[[Material Properties]]"
+  - "[[Motor_M_BOM.csv]]"
 contributor:
   - Tobias Reich
 date: 2026-04-27 22:43
 tags:
 ---
-# Motor M dimensions
+# Dimensions
 
 ## Cycloidal drive
 Look at [[Cycloidal Drive]] for full explanation of all calculations.
@@ -38,7 +39,7 @@ In the workspaces `script` folder there is a python script that does most of the
 | $R_{out}$  | Output shaft pin radius              | 29.5        | mm   |                  |
 | $R_{r}$    | Pin radius                           | 8           | mm   | Roller radius    |
 | $e$        | Eccentricity                         | 1.5         | mm   | Typ. 0.5–2 mm    |
-| $h_{disk}$ | Disk height                          | 9           | mm   |                  |
+| $h_{disk}$ | Disk height                          | 10          | mm   |                  |
 
 ```
 ((42.5)*cos(t))-(4*cos(t+arctan(sin((1-21)*t)/(((42.5)/(1.4*21))-cos((1-21)*t)))))-(1.4*cos(21*t))
@@ -72,3 +73,9 @@ In the workspaces `script` folder there is a python script that does most of the
 | $p_{out,mount}$ | Output shaft pin pressure on output shaft         | 10.7   | MPa  | $l = 7mm$                                             |
 
 
+
+# BOM
+
+```csvtable
+source: 02 sources/bom/Motor_M_BOM.csv
+```

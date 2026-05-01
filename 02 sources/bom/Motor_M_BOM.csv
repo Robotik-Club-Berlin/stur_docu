@@ -1,0 +1,35 @@
+Category,Description,Dimensions,Quantity,Material,Link
+Bearings,Ball Bearing,30x37x4 mm,2,Steel,https://www.kugellager-express.de/rillenkugellager-6706-61706-offen-geoelt-30-37-4-mm
+Bearings,Ball Bearing,35x47x7 mm,2,Steel,https://www.kugellager-express.de/rillenkugellager-6807-61807-offen-geoelt-35-47-7-mm
+Bearings,Ball Bearing ZZ,35x47x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6807-61807-ZZ-35x47x7-mm
+Bearings,Ball Bearing,45x58x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6809-61809-offen-geoelt-45-58-7-mm
+Bearings,Ball Bearing ZZ,50x65x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6810-61810-ZZ-50x65x7-mm
+Bearings,Flanged Ball Bearing ZZ,6x10x2.5 mm (flange 11.2x0.6 mm),1,Steel,https://www.kugellager-express.de/miniatur-flanschkugellager-mf-106-ZZ-6x10x3-mm
+Screws,Socket Head Cap Screw DIN 912,M3x6,2,Steel,
+Screws,Socket Head Cap Screw DIN 912,M3x10,4,Steel,
+Screws,Socket Head Cap Screw DIN 912,M3x16,3,Steel,
+Screws,Socket Head Cap Screw DIN 912,M3x30,4,Steel,
+Screws,Countersunk Socket Head Screw DIN 7991,M3x8,3,Steel,
+Pins & Bushings,Stainless Steel Dowel Pin,M6x12,1,Steel,https://de.aliexpress.com/item/32994193630.html
+Pins & Bushings,Stainless Steel Dowel Pin,M6x18,6,Steel,https://de.aliexpress.com/item/32994193630.html
+Pins & Bushings,Stainless Steel Dowel Pin,M6x30,20,Steel,https://de.aliexpress.com/item/32994193630.html
+Pins & Bushings,Bushing,M6x8x20,20,Steel,https://de.aliexpress.com/item/1005004320890614.html
+Pins & Bushings,Bushing,M6x8x10,6,Steel,https://de.aliexpress.com/item/1005004320890614.html
+3D Printed Parts,Cycloidal Disk (19 Lobes),,1,Nylon 6,
+3D Printed Parts,Drive Shell,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Drive Top Cover,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Encoder Mounting Plate,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Input Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Lower Output Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Staple Spacer,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,t25 Encoder Coupler,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,t50 Gear,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Upper Output Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Spring Contact Bracket,,1,Nylon 12 Tough (Formlabs Fuse 1),
+Machined Parts,Rotor,,1,Aluminum 5083,https://www.aluminium-online-shop.de/produkt-kategorie/aluminium-platten-aluminium-bleche/feingefraeste-gussplatten
+Machined Parts,Shell,,1,Aluminum 5083,https://www.aluminium-online-shop.de/produkt-kategorie/aluminium-platten-aluminium-bleche/feingefraeste-gussplatten
+Motor Components,Magnet Ring (T-Motor 8115 Frameless BLDC),,1,—,https://faradyi.en.alibaba.com
+Motor Components,Stator (T-Motor 8115 Frameless BLDC),,1,—,https://faradyi.en.alibaba.com
+Electronics,Same Sky CUI Devices AMT102-2048-I6000-S Encoder,,1,—,https://www.mouser.de/ProductDetail/Same-Sky/AMT102-D2048-I6000-S
+Electronics,Hall Encoder,,1,—,
+Electronics,Magnet 25x40x5,,1,—,https://www.magnet-shop.net/neodym-magnete/ringmagnete/ringmagnet-40.0-x-25.0-x-5.0-mm-n42-nickel-diametral
