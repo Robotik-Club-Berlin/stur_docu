@@ -11,25 +11,25 @@ tags:
 ---
 # quick guide
 ----
-## new to markdown?
-than feel free to look at the internet link for markdown syntax added to the related Property. 
+## New to markdown?
+Look [here](https://www.markdownguide.org/basic-syntax/) for basic syntax.
 
 ## How to create a note
-You just press ctrl + n to create a new tab than you press ctrl + o to search if your note already exists and if note you press shift + enter to create it.
+Press `ctrl + n` to open a new tab then press` ctrl + o` to check if that note might already exist. If that's not the case, press `shift + enter` to create it.
 
 You can also add a tab above and click on new note. 
 
 ---- 
-By ctrl + t you select the standard template to use a standard format. 
+Select the standard template by pressing `ctrl + t` and select "standard template". 
 Then like in the properties above you just select the topics your note falls under. Think of other notes or pdf's the new note relates to and list them in the related property. You can also add internet links there.  
 
-You can also add you name to contributed to let other know whom to ask if they have questions about the note.
+You can also add you name to "contributed" to let other know whom to ask if they have questions about the note.
 
 If you just want to start writing feel free to leave the rest of the quick guide behind and come back to it later if you want to learn how to embed [[quick guide#media embedding|media]] or [[quick guide#Adding pdf's|pdf's]]. Or add [[quick guide#Adding Docu to a certain Repository object|docu]], new [[quick guide#Adding a new topic|topics]] [[quick guide#Creating a new template|template's]] to the vault. 
 
 ----
 ## media embedding
-If you want to embed media into your note you can just copy it from your clipboard and it will automatically get saved into the media folder. It is recommended to rename the image to find it later again. You can do this by ctrl + shift onto the link and F2 to rename. If your done you can close the media file by ctrl + w.
+If you want to embed media into your note you can just copy it from your clipboard and it will automatically get saved into the media folder. It is recommended to rename the image to find it later again. You can do this by `ctrl + shift` onto the link and F2 to rename. If your done you can close the media file by `ctrl + w`.
 
 ----
 ## Adding pdf's
@@ -41,7 +41,7 @@ Either way every pdf is shown in the pdf topic.
 
 ----
 ## Adding a new topic
-You just create a new note with the tag template and put it into the tag/notes folder. Than you click on the .base embed to create a tag base where every file with this tag is listed and move the base into the tags/bases folder. To improve navigating in the vault. 
+You just create a new note with the tag template and put it into the tag/notes folder. Then you click on the .base embed to create a tag base where every file with this tag is listed and move the base into the tags/bases folder. To improve navigating in the vault. 
 
 -----
 
@@ -49,7 +49,7 @@ The bases used in indexes are card bases (like the home note base). So add a pic
 
 -----
 You can delete the embedded picture not. 
-If you want to use standard icons you can find them [here](https://fontawesome.com/search?f=classic&s=solid&it=round) (The weblink was created by ctrl + k)
+If you want to use standard icons you can find them [here](https://fontawesome.com/search?f=classic&s=solid&it=round) (The weblink was created by `ctrl + k`)
 The color used for the standard icon currently is: rgba(139, 126, 200, 1.00)
 
 ---- 
