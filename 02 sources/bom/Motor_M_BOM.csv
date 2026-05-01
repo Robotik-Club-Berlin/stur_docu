@@ -15,17 +15,17 @@ Pins & Bushings,Stainless Steel Dowel Pin,M6x18,6,Steel,https://de.aliexpress.co
 Pins & Bushings,Stainless Steel Dowel Pin,M6x30,20,Steel,https://de.aliexpress.com/item/32994193630.html
 Pins & Bushings,Bushing,M6x8x20,20,Steel,https://de.aliexpress.com/item/1005004320890614.html
 Pins & Bushings,Bushing,M6x8x10,6,Steel,https://de.aliexpress.com/item/1005004320890614.html
-3D Printed Parts,Cycloidal Disk (19 Lobes),,1,Nylon 6,
-3D Printed Parts,Drive Shell,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Drive Top Cover,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Encoder Mounting Plate,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Input Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Lower Output Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Staple Spacer,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,t25 Encoder Coupler,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,t50 Gear,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Upper Output Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),
-3D Printed Parts,Spring Contact Bracket,,1,Nylon 12 Tough (Formlabs Fuse 1),
+3D Printed Parts,Drive Shell,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/drive/driveShell%20v16.3mf
+3D Printed Parts,Drive Top Cover,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/drive/driveTopCover%20v6.3mf
+3D Printed Parts,Encoder Mounting Plate,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/BLDC/encoderMountinPlate%20v2.3mf
+3D Printed Parts,Input Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/drive/inputShaft%20v12.3mf
+3D Printed Parts,Lower Output Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/drive/lowerOutputShaft%20v5.3mf
+3D Printed Parts,Staple Spacer,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/drive/stapleSpacer%20v3.3mf
+3D Printed Parts,t25 Encoder Coupler,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/BLDC/t25EncoderCoupler%20v6.3mf
+3D Printed Parts,t50 Gear,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/BLDC/t50Gear_a%20v2.3mf
+3D Printed Parts,Upper Output Shaft,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/drive/upperOutputShaft%20v6.3mf
+3D Printed Parts,Spring Contact Bracket,,1,Nylon 12 Tough (Formlabs Fuse 1),https://github.com/Robotik-Club-Berlin/motor_M/blob/main/springContactBracket%20v3.3mf
+Machined Parts,Cycloidal Disk (19 Lobes),,1,Nylon 6,https://smapla-shop.de/pa-6-polyamid-zuschnitte.html?number=PA-S-10
 Machined Parts,Rotor,,1,Aluminum 5083,https://www.aluminium-online-shop.de/produkt-kategorie/aluminium-platten-aluminium-bleche/feingefraeste-gussplatten
 Machined Parts,Shell,,1,Aluminum 5083,https://www.aluminium-online-shop.de/produkt-kategorie/aluminium-platten-aluminium-bleche/feingefraeste-gussplatten
 Motor Components,Magnet Ring (T-Motor 8115 Frameless BLDC),,1,—,https://faradyi.en.alibaba.com
