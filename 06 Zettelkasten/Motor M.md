@@ -5,6 +5,7 @@ related:
   - "[[Cycloidal Drive]]"
   - "[[Material Properties]]"
   - "[[Motor_M_BOM.csv]]"
+  - "[GitHub](https://github.com/Robotik-Club-Berlin/motor_M/tree/main)"
 contributor:
   - Tobias Reich
 date: 2026-04-27 22:43
