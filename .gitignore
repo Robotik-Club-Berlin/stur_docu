@@ -1,1 +1,8 @@
 .obsidian/
+/conflict-files-obsidian-git.md
+.obsidian.template/community-plugins.json
+.obsidian.template/graph.json
+.obsidian.template/plugins/obsidian-git/main.js
+.obsidian.template/plugins/obsidian-git/manifest.json
+.obsidian.template/plugins/obsidian-git/styles.css
+.obsidian.template/plugins/recent-files-obsidian/data.json

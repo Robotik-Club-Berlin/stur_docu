@@ -1,14 +1,20 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD:.obsidian/plugins/recent-files-obsidian/data.json
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
+=======
+      "basename": "quick guide",
+      "path": "06 Zettelkasten/quick guide.md"
+>>>>>>> origin/main:.obsidian.template/plugins/recent-files-obsidian/data.json
     },
     {
       "basename": "Home",
       "path": "01 Welcome/Home.md"
     },
     {
+<<<<<<< HEAD:.obsidian/plugins/recent-files-obsidian/data.json
       "basename": "standard template",
       "path": "05 templates/standard template.md"
     },
@@ -19,6 +25,18 @@
     {
       "basename": "quick guide",
       "path": "06 Zettelkasten/quick guide.md"
+=======
+      "basename": "Motor M dimensions",
+      "path": "06 Zettelkasten/Motor M dimensions.md"
+    },
+    {
+      "basename": "Motor L dimensions",
+      "path": "06 Zettelkasten/Motor L dimensions.md"
+    },
+    {
+      "basename": "motor",
+      "path": "04 topics/notes/motor.md"
+>>>>>>> origin/main:.obsidian.template/plugins/recent-files-obsidian/data.json
     },
     {
       "basename": "odrive motor driver",
@@ -27,6 +45,66 @@
     {
       "basename": "minutes_14042026",
       "path": "06 Zettelkasten/minutes_14042026.md"
+    },
+    {
+      "basename": "Calculations Torque",
+      "path": "06 Zettelkasten/Calculations Torque.md"
+    },
+    {
+      "basename": "cad",
+      "path": "03 indexes/notes/cad.md"
+    },
+    {
+      "basename": "Club Space",
+      "path": "06 Zettelkasten/Club Space.md"
+    },
+    {
+      "basename": "readme",
+      "path": "01 Welcome/readme.md"
+    },
+    {
+      "basename": "Calculations_Torque",
+      "path": "06 Zettelkasten/Calculations_Torque.md"
+    },
+    {
+      "basename": "arm",
+      "path": "04 topics/notes/arm.md"
+    },
+    {
+      "basename": "arm",
+      "path": "04 topics/bases/arm.base"
+    },
+    {
+      "basename": "pdf",
+      "path": "04 topics/notes/pdf.md"
+    },
+    {
+      "basename": "dimensions_arm2",
+      "path": "02 sources/media/dimensions_arm2.png"
+    },
+    {
+      "basename": "dimensions_arm",
+      "path": "02 sources/media/dimensions_arm.png"
+    },
+    {
+      "basename": "Torq_Calc",
+      "path": "02 sources/media/Torq_Calc.png"
+    },
+    {
+      "basename": "research",
+      "path": "04 topics/notes/research.md"
+    },
+    {
+      "basename": "special",
+      "path": "03 indexes/notes/special.md"
+    },
+    {
+      "basename": "headings",
+      "path": "06 Zettelkasten/headings.md"
+    },
+    {
+      "basename": "home",
+      "path": "01 Welcome/home.base"
     },
     {
       "basename": "obsidian plugins",
@@ -133,12 +211,25 @@
       "path": "01 Welcome/home.base"
     },
     {
+<<<<<<< HEAD:.obsidian/plugins/recent-files-obsidian/data.json
       "basename": "motor",
       "path": "04 topics/notes/motor.md"
     },
     {
       "basename": "cad",
       "path": "03 indexes/notes/cad.md"
+=======
+      "basename": "Git onboarding",
+      "path": "06 Zettelkasten/Git onboarding.md"
+    },
+    {
+      "basename": "readme",
+      "path": "01 Welcome/readme.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+>>>>>>> origin/main:.obsidian.template/plugins/recent-files-obsidian/data.json
     },
     {
       "basename": "SimpleFOCBoards",
@@ -149,6 +240,13 @@
       "path": "06 Zettelkasten/sponsors and funding.md"
     },
     {
+<<<<<<< HEAD:.obsidian/plugins/recent-files-obsidian/data.json
+=======
+      "basename": "existing humanoids",
+      "path": "06 Zettelkasten/existing humanoids.md"
+    },
+    {
+>>>>>>> origin/main:.obsidian.template/plugins/recent-files-obsidian/data.json
       "basename": "motor_m_cycloidal_dimensioning_2_0",
       "path": "02 sources/media/motor_m_cycloidal_dimensioning_2_0.png"
     },
@@ -199,6 +297,29 @@
     {
       "basename": "minutes template",
       "path": "05 templates/minutes template.md"
+<<<<<<< HEAD:.obsidian/plugins/recent-files-obsidian/data.json
+=======
+    },
+    {
+      "basename": "pdf template",
+      "path": "05 templates/pdf template.md"
+    },
+    {
+      "basename": "standard template",
+      "path": "05 templates/standard template.md"
+    },
+    {
+      "basename": "topics Template",
+      "path": "05 templates/topics Template.md"
+    },
+    {
+      "basename": "video Template",
+      "path": "05 templates/video Template.md"
+    },
+    {
+      "basename": "Club Space",
+      "path": "02 sources/media/Club Space.pdf"
+>>>>>>> origin/main:.obsidian.template/plugins/recent-files-obsidian/data.json
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@ contributor:
 date: 2026-04-28 15:04
 tags:
 ---
-# Motor L dimensions
+# Dimensions
 
 ## Cycloidal drive
 Look at [[Cycloidal Drive]] for full explanation of all calculations.

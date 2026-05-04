@@ -9,24 +9,28 @@ tags:
 
 ## Mechanical Properties
 
-| Material                       | E [MPa] | ν     | σ_y [MPa] | UTS [MPa] | Notes                             |
-| ------------------------------ | ------- | ----- | --------- | --------- | --------------------------------- |
-| Steel                          | 200000  | 0.30  | —         | —         | Pin material                      |
-| Nylon 12 Tough (Formlabs SLS)  | 1450    | 0.40* | —         | 42        | ν from PA12 literature            |
-| Cast PA6 (unfilled)            | 2800    | 0.39  | ~75       | ~82       | E drops ~30% with moisture uptake |
-| EN AW-5083<br>(AlMg4,5Mn0,7)   | 70000   | 0.33  | 145       | 270       |                                   |
-| EN AW-6060 T66 (AlMgSi0.5)     | 70000   | 0.33  | 160       | 215       |                                   |
-| EN AW-2007 T3<br>(AlCu4PbMgMn) | 70000   | 0.33  | 300       | 370       | Great Machinability               |
+| Material                       | E [MPa] | ν     | σ_y [MPa] | UTS [MPa] | Notes                  |
+| ------------------------------ | ------- | ----- | --------- | --------- | ---------------------- |
+| Steel                          | 200000  | 0.30  | -         | -         | Pin material           |
+| Nylon 12 Tough (Formlabs SLS)  | 1450    | 0.40* | -         | 42        | ν from PA12 literature |
+| Cast PA6 (dry)                 | 3000    | 0.39  | 65        | -         |                        |
+| Cast PA6 (humid)               | 1000    | 0.39  | 45        | -         |                        |
+| POM                            | 2700    | 0.39  | 66        | -         |                        |
+| EN AW-5083<br>(AlMg4,5Mn0,7)   | 70000   | 0.33  | 145       | 270       |                        |
+| EN AW-6060 T66 (AlMgSi0.5)     | 70000   | 0.33  | 160       | 215       |                        |
+| EN AW-2007 T3<br>(AlCu4PbMgMn) | 70000   | 0.33  | 300       | 370       | Great Machinability    |
 
 
 ## Reduced Contact Modulus E* (paired with steel pin, E=210 GPa, ν=0.30)
 
-| Material | E* [MPa] |
-|---|---|
-| Nylon 12 Tough | 1713 |
-| Cast PA6 | 3039 |
-| Aluminium (all alloys, ~70 GPa) | ~58000 |
-| Steel-on-steel (reference) | 115400 |
+| Material                        | E* [MPa] |
+| ------------------------------- | -------- |
+| Nylon 12 Tough                  | 1713     |
+| Cast PA6 (dry)                  | 3485     |
+| Cast PA6 (humid)                | 1173     |
+| POM                             | 3141     |
+| Aluminium (all alloys, ~70 GPa) | ~58000   |
+| Steel-on-steel (reference)      | 115400   |
 
 ## Load Case Reference — Which Limit to Compare Against
 

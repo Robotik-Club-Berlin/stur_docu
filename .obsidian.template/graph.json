@@ -47,5 +47,9 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.8077158469038854,
+<<<<<<< HEAD:.obsidian/graph.json
   "close": true
+=======
+  "close": false
+>>>>>>> origin/main:.obsidian.template/graph.json
 }
