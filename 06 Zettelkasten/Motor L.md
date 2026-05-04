@@ -18,7 +18,7 @@ In the workspaces `script` folder there is a python script that does most of the
 
 - [x] Disk material must hold up to $p_{p,max}$ and $p_{p,max}$
 - [ ] Input shaft must hold up to $F_{bearing,max}$ (Fusion 360 Study)
-- [ ] Bearing must gold up to $F_{bearing,max}$
+- [x] Bearing must gold up to $F_{bearing,max}$
 - [ ] Output shaft pin contacts must hold up to $F_{out,max}$
 - [ ] Housing pin contacts must hold up to $F_{p,max}$
 
