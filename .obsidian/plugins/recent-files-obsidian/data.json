@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home",
       "path": "01 Welcome/Home.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "headings",
       "path": "06 Zettelkasten/headings.md"
-    },
-    {
-      "basename": "Calculations_Torque",
-      "path": "06 Zettelkasten/Calculations_Torque.md"
     },
     {
       "basename": "Club Space",

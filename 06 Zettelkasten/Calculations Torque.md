@@ -9,7 +9,7 @@ contributor:
 date: 2026-04-25 14:01
 tags:
 ---
-# Calculations_Torque
+# Calculations Torque
 
 ![[Torq_Calc.png]]
 The image shows the estimated torque's for the shoulder, elbow and wrist. The last column are the dimensions for the relevated motor.
