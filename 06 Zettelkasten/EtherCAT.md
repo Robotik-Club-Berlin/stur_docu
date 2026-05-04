@@ -1,6 +1,7 @@
 ---
 Topic:
   - "[[arm]]"
+  - "[[Communication System]]"
 related:
 contributor:
   - Andre auf dem Keller
@@ -32,6 +33,13 @@ Developments include 1G up to 10G EtherCAT or SPE (Single Pair Ethernet). Additi
 
 ## Implementation for PCB
 The implementation of an **EtherCAT Slave Controller (ESC)** is significantly more complex than designing a controller using the CAN bus standard. However, there are providers offering dedicated modules specifically for EtherCAT that can be interfaced directly with motor drivers.
+
+## Komplex Implementation
+This is the answer of a forum question on how to implement EtherCAT:
+>For an ethercat slave controller you'll need ethernet hardware, custom ASIC specific for the job and firmware with some wizardry. More specifically: a couple of low latency (plus fast link down detection) ethernet phy, a dedicated mac ic to handle frame routing and on-the-fly data processing plus a CPU or micro running the slave protocol fine tuned and tailored to fit and describe your system. Then you should read and understand the over-complicated and obfuscated german-austrian documentation. Then write an xml file describing  the slave interface. Also, you should buy from Beckhoff some magic numbers (vendor ID), join the ethercat technology group and buy a conformance test software.
+
+
+
 
 
 

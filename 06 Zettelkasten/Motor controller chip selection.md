@@ -1,6 +1,7 @@
 ---
 Topic:
   - "[[motor]]"
+  - "[[motor controller]]"
 related:
 contributor:
   - Tobias Reich
