@@ -5,5 +5,10 @@
   "pretty-properties",
   "obsidian-style-settings",
   "homepage",
+<<<<<<< HEAD:.obsidian/community-plugins.json
+  "obsidian-minimal-settings",
+  "obsidian-git"
+=======
   "obsidian-minimal-settings"
+>>>>>>> origin/main:.obsidian.template/community-plugins.json
 ]
