@@ -38,6 +38,8 @@ The implementation of an **EtherCAT Slave Controller (ESC)** is significantly mo
 This is the answer of a forum question on how to implement EtherCAT:
 >For an ethercat slave controller you'll need ethernet hardware, custom ASIC specific for the job and firmware with some wizardry. More specifically: a couple of low latency (plus fast link down detection) ethernet phy, a dedicated mac ic to handle frame routing and on-the-fly data processing plus a CPU or micro running the slave protocol fine tuned and tailored to fit and describe your system. Then you should read and understand the over-complicated and obfuscated german-austrian documentation. Then write an xml file describing  the slave interface. Also, you should buy from Beckhoff some magic numbers (vendor ID), join the ethercat technology group and buy a conformance test software.
 
+## [[TSN-Time Sensitive Networking]] 
+ist ein open Standard from [[IEEE]] and promises time critical [[Ethernet]]. 
 
 
 
