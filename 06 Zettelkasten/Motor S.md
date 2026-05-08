@@ -16,7 +16,7 @@ Look at [[Cycloidal Drive]] for full explanation of all calculations.
 In the workspaces `script` folder there is a python script that does most of the calculations for you
 ### Validation list
 
-- [ ] Disk material must hold up to $p_{p,max}$ and $p_{p,max}$
+- [x] Disk material must hold up to $p_{p,max}$ and $p_{p,max}$
 - [ ] Input shaft must hold up to $F_{bearing,max}$ (Fusion 360 Study)
 - [ ] Bearing must gold up to $F_{bearing,max}$
 - [ ] Output shaft pin contacts must hold up to $F_{out,max}$
@@ -24,21 +24,21 @@ In the workspaces `script` folder there is a python script that does most of the
 
 ### Requirements
 
-- **Target ratio (i):** $x:x$
-- **Nominal output torque [Nm]:** $xN$
+- **Target ratio (i):** $15:1$
+- **Nominal output torque in Nm:** $9 Nm$
 
 ### Core Geometry
 
 | Symbol     | Param                                | Value       | Unit | Notes            |
 | ---------- | ------------------------------------ | ----------- | ---- | ---------------- |
-| $N_{l}$    | Number of lobes (cycloid disc teeth) |             | -    |                  |
+| $N_{l}$    | Number of lobes (cycloid disc teeth) | 15          | -    |                  |
 | $N_{p}$    | Number of ring pins                  | $N_{l} + 1$ | -    | Always lobes + 1 |
-| $N_{out}$  | Number of output shaft pins          |             | -    |                  |
-| $R_{p}$    | Ring pin circle radius               |             | mm   |                  |
-| $R_{out}$  | Output shaft pin radius              |             | mm   |                  |
-| $R_{r}$    | Pin radius                           |             | mm   | Roller radius    |
-| $e$        | Eccentricity                         |             | mm   | Typ. 0.5–2 mm    |
-| $h_{disk}$ | Disk height                          |             | mm   |                  |
+| $N_{out}$  | Number of output shaft pins          | 6           | -    |                  |
+| $R_{p}$    | Ring pin circle radius               | 27.5        | mm   |                  |
+| $R_{out}$  | Output shaft pin radius              | 15.9        | mm   |                  |
+| $R_{r}$    | Pin radius                           | 4           | mm   | Roller radius    |
+| $e$        | Eccentricity                         | 1.15        | mm   | Typ. 0.5–2 mm    |
+| $h_{disk}$ | Disk height                          | 10          | mm   |                  |
 
 ```
 
