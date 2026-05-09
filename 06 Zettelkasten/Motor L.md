@@ -17,10 +17,10 @@ In the workspaces `script` folder there is a python script that does most of the
 ### Validation list
 
 - [x] Disk material must hold up to $p_{p,max}$ and $p_{p,max}$
-- [ ] Input shaft must hold up to $F_{bearing,max}$ (Fusion 360 Study)
+- [x] Input shaft must hold up to $F_{bearing,max}$ (Fusion 360 Study)
 - [x] Bearing must gold up to $F_{bearing,max}$
-- [ ] Output shaft pin contacts must hold up to $F_{out,max}$
-- [ ] Housing pin contacts must hold up to $F_{p,max}$
+- [x] Output shaft pin contacts must hold up to $F_{out,max}$
+- [x] Housing pin contacts must hold up to $F_{p,max}$
 
 ### Requirements
 
@@ -68,6 +68,11 @@ In the workspaces `script` folder there is a python script that does most of the
 | $E^*$           | Effective Elastic Modulus                         | 3256   | MPa  | xx with steel pin                                     |
 | $p_{p,max}$     | Max ring pin Hertz Pressure (Disk <> Pin)         | 71.0   | MPa  | Assuming 1/4 of pins are engaged and Safety factor: 2 |
 | $p_{out,max}$   | Max output shaft pin Hertz Pressure (Disk <> Pin) | 39.6   | MPa  |                                                       |
-| $p_{p,mount}$   | Ring ping pressure on housing and lid             |        | MPa  |                                                       |
-| $p_{out,mount}$ | Output shaft pin pressure on output shaft         |        | MPa  |                                                       |
+| $p_{p,mount}$   | Ring ping pressure on housing and lid             | 4.5    | MPa  |                                                       |
+| $p_{out,mount}$ | Output shaft pin pressure on output shaft         | 14.1   | MPa  |                                                       |
 
+## BOM
+
+```csvtable
+source: 02 sources/bom/Motor_L_BOM.csv
+```
