@@ -1,10 +1,10 @@
 Category,Description,Dimensions,Quantity,Material,Link,Unit Price (€),Total Price (€)
 Bearings,Ball Bearing,35x47x7 mm,2,Steel,https://www.kugellager-express.de/rillenkugellager-6807-61807-offen-geoelt-35-47-7-mm,3.12,6.24
-Bearings,Ball Bearing,40x52x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6808-61808-offen-geoelt-40-52-7-mm,3.58,
+Bearings,Ball Bearing,40x52x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6808-61808-offen-geoelt-40-52-7-mm,3.58,3.58
 Bearings,Ball Bearing,45x58x7 mm,2,Steel,https://www.kugellager-express.de/rillenkugellager-6809-61809-offen-geoelt-45-58-7-mm,4.65,9.3
-Bearings,Ball Bearing ZZ,45x58x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6809-61809-ZZ-45x58x7-mm,4.40,
-Bearings,Ball Bearing ZZ,50x65x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6810-61810-ZZ-50x65x7-mm,4.77,
-Bearings,Flanged Ball Bearing ZZ,6x10x2.5 mm (flange 11.2x0.6 mm),1,Steel,https://www.kugellager-express.de/miniatur-flanschkugellager-mf-106-ZZ-6x10x3-mm,2.17,
+Bearings,Ball Bearing ZZ,45x58x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6809-61809-ZZ-45x58x7-mm,4.40,4.40
+Bearings,Ball Bearing ZZ,50x65x7 mm,1,Steel,https://www.kugellager-express.de/rillenkugellager-6810-61810-ZZ-50x65x7-mm,4.77,4.77
+Bearings,Flanged Ball Bearing ZZ,6x10x2.5 mm (flange 11.2x0.6 mm),1,Steel,https://www.kugellager-express.de/miniatur-flanschkugellager-mf-106-ZZ-6x10x3-mm,2.17,2.17
 Screws,Socket Head Cap Screw DIN 912,M2x6,2,Steel,,,
 Screws,Socket Head Cap Screw DIN 912,M3x6,2,Steel,,,
 Screws,Socket Head Cap Screw DIN 912,M3x10,4,Steel,,,
@@ -33,3 +33,4 @@ Electronics,Same Sky CUI Devices AMT102-2048-I6000-S Encoder,,1,—,https://www.
 Electronics,Hall Encoder,,1,—,,10,10
 Electronics,Magnet 40x25x5,,1,—,https://www.magnet-shop.net/neodym-magnete/ringmagnete/ringmagnet-40.0-x-25.0-x-5.0-mm-n42-nickel-diametral,8.48,8.48
 ,,,,,,,
+,,,,,,Total:,241.75
