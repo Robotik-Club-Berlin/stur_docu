@@ -66,4 +66,4 @@ Gesamt nicht ganz überzeugt, aber Geld möglich
 Ziel Bachelorarbeit?:
 - Hämmern, Arm darf nicht kaputt gehen <- wäre Wissenschaftlich
 	- guter Test für Motoren
-- aber Aufwändig
+- Wichtig: Forschungsfrage
