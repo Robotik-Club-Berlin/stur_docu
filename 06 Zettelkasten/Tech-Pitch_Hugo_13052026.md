@@ -67,3 +67,7 @@ Ziel Bachelorarbeit?:
 - Hämmern, Arm darf nicht kaputt gehen <- wäre Wissenschaftlich
 	- guter Test für Motoren
 - Wichtig: Forschungsfrage
+
+# für Club
+
+- theoretisch Rechtsbeistand über Hochschule möglich
