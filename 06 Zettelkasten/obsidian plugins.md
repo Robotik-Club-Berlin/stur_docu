@@ -13,6 +13,10 @@ Obsidian has a huge plugin platform created by the community to enhance the over
 
 To look at the plugins you can go into settings and go to community plugins. 
 
+## Extra Plugins:
+There are several Plugins that add extra functionality used by some member to the standard plugins given:
+
+
 
 
 
