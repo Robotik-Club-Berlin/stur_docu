@@ -1,8 +1,13 @@
 ---
 Topic:
+  - "[[Robotics Club Berlin eV]]"
 related:
+  - "[[Vorbereitung RCB]]"
 contributor:
-date: "2026-05-25 20:03"
+  - Jonas Peters
+  - Andre auf dem Keller
+  - Tobias Reich
+date: 2026-05-25 20:03
 tags:
 ---
 # RCB_Raumplanung
