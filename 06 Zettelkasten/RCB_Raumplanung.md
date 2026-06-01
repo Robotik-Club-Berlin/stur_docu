@@ -24,13 +24,4 @@ tags:
 
 ## Raumplan
 
-![[RCB_Raumplan.png]]
-
-
-
-
-
-
-
-
-
+![[RCB_Clubraum.png]]

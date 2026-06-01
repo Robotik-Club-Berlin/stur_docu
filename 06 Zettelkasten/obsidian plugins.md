@@ -15,13 +15,8 @@ To look at the plugins you can go into settings and go to community plugins.
 
 ## Extra Plugins:
 There are several Plugins that add extra functionality used by some member to the standard plugins given:
-
-
-
-
-
-
-
-
-
-
+- Git: useful to pull, commit and push changes directly in Obsidian
+	- commands:
+		- Git: Pull
+		- Git: Commit all changes with specific message
+		- Git: Push
