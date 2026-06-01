@@ -14,7 +14,10 @@ tags:
 
 ## Einkaufsliste
 
-  https://1drv.ms/x/c/88ab36161887c4da/IQCrkesXFYurQ5bSZu_1SnZ1ARy0FKPS7amnlbXEzxywNlQ
+ https://1drv.ms/x/c/88ab36161887c4da/IQCrkesXFYurQ5bSZu_1SnZ1ARy0FKPS7amnlbXEzxywNlQ
+
+## Pitch für den Asta
+[Pitch_Iniraum.pptx](https://1drv.ms/p/c/805519eab020559c/IQCWqUuLSHzjS6RCzbgmoLpmAaYu7kHTVSje7hb1iGbvIX0?e=wkgGj4)
 
 ## Offene Fragen
 
