@@ -1,5 +1,6 @@
 ---
 Topic:
+  - "[[ideas]]"
   - "[[research]]"
 related:
 contributor:
