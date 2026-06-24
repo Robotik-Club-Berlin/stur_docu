@@ -29,6 +29,9 @@ tags:
 ### Spannungsversorgung
 - Akkumanagement
 
+### Torsomuskulatur 
+- für die Balance
+
 ### Sensorik
 - [[Solid State LIDAR]]
 - IMU
