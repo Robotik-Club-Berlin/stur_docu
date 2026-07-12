@@ -5,6 +5,6 @@ views:
       and:
         - file.folder == "03 indexes/notes"
     image: note.cover
-    cardSize: 130
+    cardSize: 80
     imageFit: contain
     imageAspectRatio: 1

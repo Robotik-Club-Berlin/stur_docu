@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.inFolder("06 Zettelkasten")
+    sort:
+      - property: file.ctime
+        direction: DESC
+    limit: 10
