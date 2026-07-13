@@ -8,6 +8,9 @@ type: recurring
 startRecur: 2026-07-13
 isTask: false
 skipDates: []
-daysOfWeek: [M]
+daysOfWeek:
+  - M
 timezone: Europe/Berlin
 ---
+
+Scripts are written as [[minutes]]
