@@ -36,7 +36,24 @@ Jonas
 
 Andre
 - Loggins an Jonas
-- 
+- Social media strategy
+
+Brainstorming Einladungen
+- per Mundpropaganda
+- Handout der RCB Idee in kurzer Version
+
+Personen die man im Blick haben sollte:
+- Tobias (etwas älter braune Haare leichter Bart)
+- Maurice
+- Castor Martensen
+- Jonas Huilmann
+- Sebastian (Siro Lab)
+- Levi
+- Lasslo
+- Gustav
+- Erik 
+- Bennet
+- Felix
 
 -----
 ### ToDos
@@ -44,10 +61,13 @@ Andre
 - Finanzamt Gemeinnützigkeit klären (Florens)
 - Fräse vorbereiten (Tobi)
 - Getriebe s und m für SLS vobereiten (Tobi)
-- SLS Drucke (Willi)
+- SLS Drucke (Willi) 15.07.
 	- Getriebe klein
 	- Getriebe mittel
 - Elektronik bestücken (Tobi und Andre)
 - Motorcontroller mit Prof besprechen (André)
-- Loggins in Website einbinden, überarbeiten und präsentieren (Jonas)
+- Loggins in Website einbinden, überarbeiten und präsentieren sodass
+  für Einladungen von Neumitgliedern darauf verwiesen werden kann (Jonas, Yoschi)
+- 
+
 -----

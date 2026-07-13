@@ -27,13 +27,13 @@ for an how to build a motor for robotics series
 For the robotic arm it could be something like
 - how to set up a cable drive for robotic arms 
 - how to design the kinematic chain of robotic arms
-- how to design a simple robotic gripper...
+- how to design a simple robotic gripper
 
 And later topics like
 - how to found a robotics club in berlin 
 
 for presenting the whole idea of the club before inviting members 
-from the whole bht or all univerities of berlin. 
+from the whole bht or all univerities of berlin.
 
 Those Videos would have spirit of us trying to learn and share knowledge and 
 fit well into understanding the topics we work on for ourselfs to present them 

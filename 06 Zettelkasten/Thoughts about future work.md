@@ -11,6 +11,9 @@ tags:
 ---
 # Thoughts about future work
 
+## Motor
+- Dynamische Motortests
+- 
 ## Hände
 ### Simple Greifer
 - für den Start
@@ -56,6 +59,7 @@ tags:
 
 ### Nackenkinematik
 - Durchdrehbarer Kopf
+
 
 Random Gedanke [[inspiration from scifi]]
 
