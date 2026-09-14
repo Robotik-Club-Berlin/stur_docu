@@ -1,5 +1,5 @@
 ---
-Topic: "[[minutes]]"
+Topic: "[[04 topics/notes/minutes]]"
 related:
 date: "{{date}} {{time}}"
 ---

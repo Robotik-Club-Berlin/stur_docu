@@ -1,6 +1,6 @@
 ---
 Topic:
-  - "[[minutes]]"
+  - "[[04 topics/notes/minutes]]"
 related:
 contributor:
   - Andre auf dem Keller
