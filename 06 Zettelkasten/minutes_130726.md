@@ -1,7 +1,7 @@
 ---
-Topic: "[[minutes]]"
+Topic: "[[04 topics/notes/minutes]]"
 related:
-date: "2026-07-13 16:26"
+date: 2026-07-13 16:26
 ---
 # minutes_130726
 

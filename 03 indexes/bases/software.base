@@ -4,3 +4,6 @@ views:
     filters:
       and:
         - file.hasLink("03 indexes/notes/software")
+    sort:
+      - property: file.name
+        direction: ASC

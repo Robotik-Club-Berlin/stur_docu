@@ -13,4 +13,4 @@ daysOfWeek:
 timezone: Europe/Berlin
 ---
 
-Scripts are written as [[minutes]]
+Scripts are written as [[04 topics/notes/minutes]]
