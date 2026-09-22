@@ -1,5 +1,5 @@
 ---
-Topic: "[[minutes]]"
+Topic: "[[04 topics/notes/minutes]]"
 related:
   - "[[Control Frequency]]"
 date: 2026-06-22 10:49

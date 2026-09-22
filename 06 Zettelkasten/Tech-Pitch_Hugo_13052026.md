@@ -1,5 +1,5 @@
 ---
-Topic: "[[minutes]]"
+Topic: "[[04 topics/notes/minutes]]"
 related:
 date: 2026-05-13 13:06
 contributor:
