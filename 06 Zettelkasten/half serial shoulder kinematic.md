@@ -13,7 +13,7 @@ date: 2026-05-08 11:00
 ### what is the idea?
 To change the planned Kinematic in [[Calculations Torque]] to a half serial kinematic using a bowden cable to get the [[Dynema]] Rope of the second joint onto a [[pulley]] instead of the second joint integrated directly. 
 
-![[half serial shoulder design sketch.png|341]]
+![[half serial shoulder design sketch.png|567]]
 
 As can be seen in the sketch above. The new half serial design (sketch higher part) is closely related to the old one (sketch lower part). But has several advantages:
 1. [[bowden cable]] of the elbow can be layed through the neutral axis
