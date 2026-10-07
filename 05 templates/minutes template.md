@@ -13,6 +13,8 @@ date: "{{date}} {{time}}"
 - [ ] Andre auf dem Keller
 - [ ] Willhelm Pleß
 - [ ] Florens Gebhardt
+- [ ] Bennet Freund
+- [ ] Sebastian
 ------ 
 ### Organizational
 
